@@ -75,7 +75,7 @@ ollama list
 
 ```bash
 # Navigate to your project directory
-cd /home/pc-1827/Desktop/practice/assignments/fealtyx_assignment
+cd fealtyx_assignment
 
 # Initialize Go module (if not done)
 go mod init student-api
